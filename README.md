@@ -1,2 +1,2 @@
-# hello-world
+# GCD
 GCD Calculation, kunth's algorithm
